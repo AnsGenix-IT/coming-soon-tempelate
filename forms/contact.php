@@ -20,14 +20,14 @@ try {
     $mail->SMTPAuth   = true;  
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
     $mail->Port       = 587;                                 // Enable SMTP authentication
-    $mail->Username   = 'naaniregister@gmail.com';                     // SMTP username
-    $mail->Password   = '\Kz7Xc[@2+mNQ:mj'; 
+    $mail->Username   = 'billingansgenix@gmail.com';                     // SMTP username
+    $mail->Password   = 'billing.rvk.mhz'; 
     //$mail->SMTPSecure = "tls";                              // SMTP password
                                        // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
 
     //Recipients
-    $mail->setFrom('naaniregister@gmail.com', 'Naani'); //sender e-mail id and name , name can be removed it is optional
-    $mail->addAddress('iamkrishnadogra@gmail.com');     // Add a recipient
+    $mail->setFrom('billingansgenix@gmail.com', 'Querry'); //sender e-mail id and name , name can be removed it is optional
+    $mail->addAddress('support@jammunaivedhyam.com');     // Add a recipient
     
     
     list($name,$number,$email,$address) = array_values($_POST); 

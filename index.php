@@ -4,9 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>ComingSoon | Naani's Super Mart</title>
-  <meta content="Naanis supermart" name="Naanis supermart">
-  <meta content="Naanis supermart" name="Naanis supermart">
+  <title>ComingSoon | Jammu Naivedhyam</title>
+  <meta content="ANS-Genix-IT-solutions" name="ANS-Genix-IT-solutions">
+  <meta content="ANS-Genix-IT-solutions" author="ANS-Genix-IT-solutions">
   
 
   <!-- Favicons -->
@@ -36,22 +36,22 @@
       
      
 	<h1 style="text-align:center">Coming Soon</h1>
-      <h2 style="text-align:center">Naani’s supermart is an online store that DELIVERS household needs</h2>
-      <h2 style="text-align:center">to the customer’s doorstep at LOWEST PRICE.</h2>
+      <h2 style="text-align:center">Jammu Naivedhyam is an online store that DELIVERS high quality drird fruits and other spices from the city of Jammu and Kashmir valley</h2>
+      <h2 style="text-align:center"> at LOWEST PRICE.</h2>
       <h2 style="text-align:center">Call / WhatsApp</h2>
 	
-	  <h2 style="text-align:center"><a href="https://wa.me/message/IAGQBSY7RBRIN1">8899-87-9988</a></h2>
+	  <h2 style="text-align:center"><a href="https://wa.me/message/IAGQBSY7RBRIN1">9419-11-5095</a></h2>
       <div class="subscribe">
-        <h4>Subscribe now to get the latest updates!</h4>
+        <!--<h4>Subscribe now to get the latest updates!</h4> -->
         
       </div>
 
-      <div class="social-links text-center">
+          <!--<div class="social-links text-center">
           <a href="https://m.facebook.com/naanissupermart.fb/" class="facebook"><i class="icofont-facebook"></i></a>
         <a href="https://twitter.com/naanissupermart" class="twitter"><i class="icofont-twitter"></i></a>
         
         <a href="https://www.instagram.com/naanissupermart/?hl=en" class="instagram"><i class="icofont-instagram"></i></a>
-      </div>
+      </div> -->
 
     </div>
 	
